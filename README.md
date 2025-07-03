@@ -56,3 +56,4 @@ Verify the correctness of read and write operations.
 
 Analyze results using both console outputs and waveform 
 #output
+![Image](https://github.com/user-attachments/assets/f8bf628f-de29-48be-9ae8-6527e969083d)
